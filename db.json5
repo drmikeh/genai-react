@@ -1,0 +1,60 @@
+{
+  superheroes: [
+    {
+      id: 1,
+      firstName: "Peter",
+      lastName: "Parker",
+      alias: "Spider-Man",
+      team: "Marvel"
+    },
+    {
+      id: 2,
+      firstName: "Tony",
+      lastName: "Stark",
+      alias: "Iron Man",
+      team: "Marvel"
+    },
+    {
+      id: 3,
+      firstName: "Steve",
+      lastName: "Rogers",
+      alias: "Captain America",
+      team: "Marvel"
+    },
+    {
+      id: 4,
+      firstName: "Bruce",
+      lastName: "Wayne",
+      alias: "Batman",
+      team: "DC Comics"
+    },
+    {
+      id: 5,
+      firstName: "Clark",
+      lastName: "Kent",
+      alias: "Superman",
+      team: "DC Comics"
+    },
+    {
+      id: 6,
+      firstName: "Diana",
+      lastName: "Prince",
+      alias: "Wonder Woman",
+      team: "DC Comics"
+    },
+    {
+      id: 7,
+      firstName: "Natasha",
+      lastName: "Romanoff",
+      alias: "Black Widow",
+      team: "Marvel"
+    },
+    {
+      id: 8,
+      firstName: "Barry",
+      lastName: "Allen",
+      alias: "The Flash",
+      team: "DC Comics"
+    }
+  ]
+}
